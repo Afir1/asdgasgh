@@ -1,0 +1,290 @@
+// ВНИМАНИЕ
+//
+// Этот файл автоматически генерируется программой TexturePacker! Вы НЕ должны менять его вручную.
+// Чтобы внести изменения в этот файл нужно внести изменения в шаблон и перегенерировать спрайт.
+
+var monster_alphaSprite = {
+
+  "monster_alpha_0000.png":
+  {
+    "frame": {"x":1,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0001.png":
+  {
+    "frame": {"x":1,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0002.png":
+  {
+    "frame": {"x":1,"y":639,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0003.png":
+  {
+    "frame": {"x":283,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0004.png":
+  {
+    "frame": {"x":283,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0005.png":
+  {
+    "frame": {"x":283,"y":639,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0006.png":
+  {
+    "frame": {"x":565,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0007.png":
+  {
+    "frame": {"x":565,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0008.png":
+  {
+    "frame": {"x":565,"y":639,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0009.png":
+  {
+    "frame": {"x":847,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0010.png":
+  {
+    "frame": {"x":847,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0011.png":
+  {
+    "frame": {"x":847,"y":639,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0012.png":
+  {
+    "frame": {"x":1129,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0013.png":
+  {
+    "frame": {"x":1411,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0014.png":
+  {
+    "frame": {"x":1693,"y":1,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0015.png":
+  {
+    "frame": {"x":1129,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0016.png":
+  {
+    "frame": {"x":1129,"y":639,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0017.png":
+  {
+    "frame": {"x":1411,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0018.png":
+  {
+    "frame": {"x":1411,"y":639,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }, 
+
+  "monster_alpha_0019.png":
+  {
+    "frame": {"x":1693,"y":320,"w":280,"h":317},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {
+      "x":0,
+      "y":0,
+      "w":280,
+      "h":317
+    },
+    "sourceSize": {"w":280,"h":317}
+  }
+
+};
+
+/* $TexturePacker:SmartUpdate:0e593fb65b1794eeb5e9d4390036ac44:7f2814bbaefbabc7665f673cc0541361:b9937b7d4f4b750e25756ff2ed5a9099$ */
